@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "labels": "Assignment",
+    "data": [30, 70, 51],
+    "pendingData": [100]
+  },
+  {
+    "id": 2,
+    "labels": "Quiz",
+    "data": [90, 37, 65, 80, 25, 55],
+    "pendingData": [100, 100, 100]
+  },
+  {
+    "id": 3,
+    "labels": "Presentation",
+    "data": [60, 37, 24],
+    "pendingData": [0]
+  },
+  {
+    "id": 4,
+    "labels": "Lab",
+    "data": [49, 90],
+    "pendingData": [0]
+  },
+  {
+    "id": 5,
+    "labels": "Viva",
+    "data": [90],
+    "pendingData": [0]
+  }
+]

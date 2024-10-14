@@ -1,0 +1,14 @@
+{
+  "course_code": "ba3102",
+  "course_name": "ba3102",
+  "course_type": "program elective",
+  "course_period": { "semester": "3" },
+  "credits": {
+    "Lecture": "3",
+    "Tutorial": "0",
+    "Practical": "0",
+    "Project": "0"
+  },
+  "course_outcomes": ["co2", "co4", "co5", "co7", "co13", "co14"],
+  "mapped_to_this_course": ["po7", "po10", "po12", "co8"]
+}
